@@ -12,7 +12,7 @@ in example:
 https://cdn.transcend-info.com/files/Drivers/MP870_Firmware_Update_Utility_v1.22.00.zip
 ```
    
-## [Download everything here](https://github.com/FaridZelli/Transcend-Firmwares/tag/Firmware)
+## [Download everything here](https://github.com/FaridZelli/Transcend-Firmwares/releases/tag/Firmware)
    
 - If a firmware version is missing from this repo, it likely no longer exists on Transcend's servers.
    
